@@ -171,7 +171,9 @@ ul{
 	color: #24262b;
 	background-color: #ffffff;
 }
-
+i{
+margin: 20%;
+}
 /*responsive*/
 @media(max-width: 767px){
   .footer-col{
